@@ -5,12 +5,336 @@
       "PackagePath": "staticwebassets\\DOTNET_PROJECT.bundle.scp.css"
     },
     {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\css\\checkout.css",
+      "PackagePath": "staticwebassets\\css\\checkout.css"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\css\\creditly.css",
+      "PackagePath": "staticwebassets\\css\\creditly.css"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\css\\easy-responsive-tabs.css",
+      "PackagePath": "staticwebassets\\css\\easy-responsive-tabs.css"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\css\\flexslider.css"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\css\\jquery-ui1.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui1.css"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\css\\shop.css",
+      "PackagePath": "staticwebassets\\css\\shop.css"
+    },
+    {
       "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\css\\style7.css",
+      "PackagePath": "staticwebassets\\css\\style7.css"
+    },
+    {
       "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\3.jpeg",
+      "PackagePath": "staticwebassets\\images\\3.jpeg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\ab.jpg",
+      "PackagePath": "staticwebassets\\images\\ab.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\b1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\images\\b2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\images\\b3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\b4.jpg",
+      "PackagePath": "staticwebassets\\images\\b4.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\banner4.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\close_1.JPG",
+      "PackagePath": "staticwebassets\\images\\close_1.JPG"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\d1.jpg",
+      "PackagePath": "staticwebassets\\images\\d1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\d2.jpg",
+      "PackagePath": "staticwebassets\\images\\d2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\d3.jpg",
+      "PackagePath": "staticwebassets\\images\\d3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\images\\g1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\images\\g2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\images\\g3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\images\\g4.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\images\\g5.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\images\\g6.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\left.png",
+      "PackagePath": "staticwebassets\\images\\left.png"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\left_black.png",
+      "PackagePath": "staticwebassets\\images\\left_black.png"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\move-top.png",
+      "PackagePath": "staticwebassets\\images\\move-top.png"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\overlay.png",
+      "PackagePath": "staticwebassets\\images\\overlay.png"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\images\\paypal.png"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\right.png",
+      "PackagePath": "staticwebassets\\images\\right.png"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\right_black.png",
+      "PackagePath": "staticwebassets\\images\\right_black.png"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\s1.jpg",
+      "PackagePath": "staticwebassets\\images\\s1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\images\\s2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\s3.jpg",
+      "PackagePath": "staticwebassets\\images\\s3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\s4.jpg",
+      "PackagePath": "staticwebassets\\images\\s4.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\s5.jpg",
+      "PackagePath": "staticwebassets\\images\\s5.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\s6.jpg",
+      "PackagePath": "staticwebassets\\images\\s6.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\s7.jpg",
+      "PackagePath": "staticwebassets\\images\\s7.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\s8.jpg",
+      "PackagePath": "staticwebassets\\images\\s8.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\s9.jpg",
+      "PackagePath": "staticwebassets\\images\\s9.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\search.png",
+      "PackagePath": "staticwebassets\\images\\search.png"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\images\\t1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\images\\t2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\images\\t3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\images\\t4.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\bootstrap-3.1.1.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-3.1.1.min.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\classie.js",
+      "PackagePath": "staticwebassets\\js\\classie.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\creditly.js",
+      "PackagePath": "staticwebassets\\js\\creditly.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\demo1.js",
+      "PackagePath": "staticwebassets\\js\\demo1.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\easing.js",
+      "PackagePath": "staticwebassets\\js\\easing.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\easy-responsive-tabs.js",
+      "PackagePath": "staticwebassets\\js\\easy-responsive-tabs.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\imagezoom.js",
+      "PackagePath": "staticwebassets\\js\\imagezoom.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\minicart.js",
+      "PackagePath": "staticwebassets\\js\\minicart.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\js\\move-top.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\search.js",
+      "PackagePath": "staticwebassets\\js\\search.js"
     },
     {
       "Id": "D:\\PROJECT\\FRAMEWORK\\DOTNET_PROJECT\\wwwroot\\js\\site.js",
