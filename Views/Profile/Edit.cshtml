@@ -1,0 +1,15 @@
+@model DOTNET_PROJECT.Models.ApplicationUser
+
+<h2>Edit User</h2>
+
+<form asp-action="EditUser">
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <!-- Add other fields as needed -->
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>

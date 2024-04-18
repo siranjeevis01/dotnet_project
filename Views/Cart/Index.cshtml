@@ -1,0 +1,26 @@
+@using DOTNET_PROJECT.Controllers
+
+
+<h1>Shopping Cart</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Product Id</th>
+            <th>Quantity</th>
+            <th>Total Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cartItem in Model)
+        {
+            <tr>
+                <td>@cartItem.Id</td>
+                <td>@cartItem.ProductId</td>
+                <td>@cartItem.Quantity</td>
+                <td>@cartItem.TotalPrice</td>
+            </tr>
+        }
+    </tbody>
+</table>
