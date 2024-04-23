@@ -50,10 +50,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT/FRAMEWORK/DOTNET_PROJECT/Views/Cart/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/PROJECT/FRAMEWORK/DOTNET_PROJECT/Views/Cart/Payment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxQYXltZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -76,6 +72,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/PROJECT/FRAMEWORK/DOTNET_PROJECT/Views/Home/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT/FRAMEWORK/DOTNET_PROJECT/Views/Home/Single.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaW5nbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/PROJECT/FRAMEWORK/DOTNET_PROJECT/Views/Products/Create.cshtml]

@@ -24,6 +24,11 @@ namespace DOTNET_PROJECT.Controllers
         {
             return View();
         }
+         
+        public IActionResult Single()
+        {
+            return View();
+        }
 
         // Other action methods for the home page
     }

@@ -61,8 +61,7 @@ a,
 }
 
 a{
-    list-style-type: none;
-    text-decoration-style: none;
+    text-decoration: none;
 }
 
 a:hover {
